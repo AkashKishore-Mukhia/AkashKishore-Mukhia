@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 # 💻 projects
 
-#### Weathe-app
+#### Describe-image 🔗 <a href="https://github.com/AkashKishore-Mukhia/describe-image" style="{color: black}">Link</a>
+This is a simple image generator built with `Node.js`, `Express` ans `ReactJs` that uses <a href="https://beta.openai.com/docs/guides/images">OpenAI's Dall-E models</a> to generate images.
+
+#### Weathe-app 
 
