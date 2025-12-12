@@ -26,10 +26,10 @@ This is a simple image generator built with `Node.js`, `Express` ans `ReactJs` t
 
 ## I code on (DSA)
 <p align="left">
-    <a href='https://leetcode.com/u/Zar7an/'>
+    <a href='https://leetcode.com/u/Zar7an/' target='_blank'>
         <img src="./icons/lc.png" height="40px" width="40px">
     </a>
-    <a href='https://www.geeksforgeeks.org/profile/akashkishoremukhia'>
+    <a href='https://www.geeksforgeeks.org/profile/akashkishoremukhia' target='_blank'>
         <img src="./icons/gfg.png" height="40px" width="40px">
     </a>
     <a href='https://www.geeksforgeeks.org/profile/akashkishoremukhia'>
