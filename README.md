@@ -23,3 +23,29 @@ This is a simple image generator built with `Node.js`, `Express` ans `ReactJs` t
 
 #### Weathe-app 
 
+
+## I code on (DSA)
+<p align="left">
+    <a href='https://leetcode.com/u/Zar7an/'>
+        <img src="./icons/lc.png" height="40px" width="40px">
+    </a>
+    <a href='https://www.geeksforgeeks.org/profile/akashkishoremukhia'>
+        <img src="./icons/gfg.png" height="40px" width="40px">
+    </a>
+    <a href='https://www.geeksforgeeks.org/profile/akashkishoremukhia'>
+        <img src="./icons/hr.png" height="40px" width="40px">
+    </a>
+    <a href='https://www.geeksforgeeks.org/profile/akashkishoremukhia'>
+        <img src="./icons/cn.png" height="40px" width="40px">
+    </a>
+    
+</p>
+
+---
+## All DSA Badges
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="40px"></img>
